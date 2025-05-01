@@ -65,7 +65,7 @@ fun HappyBirthdayCard() {
                     )
                     Spacer(modifier = Modifier.height(8.dp))
                     Text(
-                        text = "Form : Nobody",
+                        text = "From : Nobody",
                         fontSize = 14.sp,
                         color = Color.Gray
                     )
